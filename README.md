@@ -1,26 +1,35 @@
-# 👋 Olá! Sou o Leonardo
+# Olá! Sou o Leonardo
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Back-End** e interesse por tecnologia, performance e boas práticas de desenvolvimento.
+## Sobre mim
 
-Atualmente estudando:
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em tecnologia, performance e no desenvolvimento de soluções práticas e bem estruturadas.
 
-- Java
-- APIs REST
-- Banco de Dados
-- Estruturação de projetos back-end
+Possuo experiência no **mercado financeiro**, o que me trouxe visão analítica, atenção aos detalhes e foco em soluções eficientes, características que aplico também no desenvolvimento de software.
 
-Também possuo conhecimento em Front-End e gosto de aprender coisas novas de forma contínua e objetiva.
+Atualmente, estou aprofundando meus conhecimentos em **Back-End**, com foco em:
+
+- **Java**
+- **APIs REST**
+- **Banco de Dados**
+- **Estruturação de projetos e boas práticas de Back-End**
+
+Também estudo **Front-End**, buscando ter uma visão completa do desenvolvimento web (HTML, CSS, JavaScript, React).
+
+Gosto de aprender coisas novas e resolver problemas de forma objetiva, sempre buscando evoluir como desenvolvedor e expandir meus conhecimentos em tecnologia.
+
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
-- Java • APIs REST • SQL • Git
-- HTML • CSS • JavaScript • React
+**Back-End:** Java • APIs REST • SQL  
+**Front-End:** HTML • CSS • JavaScript • React  
+**Ferramentas:** Git
+
 
 ---
 
-### 📫 Contato
+### Contato
 
 - LinkedIn: https://www.linkedin.com/in/leonardojpereiradev/
 - Email: leonardojp04@gmail.com
