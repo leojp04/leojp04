@@ -32,4 +32,4 @@ Gosto de aprender coisas novas e resolver problemas de forma objetiva, sempre bu
 ### Contato
 
 - LinkedIn: https://www.linkedin.com/in/leonardojpereiradev/
-- Email: leonardojp04@gmail.com
+- Email: leojp04@gmail.com
