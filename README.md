@@ -1,35 +1,25 @@
-# Olá! Sou o Leonardo
+# Leonardo Pereira
 
-## Sobre mim
+Sales Trader em mesa de câmbio e derivativos, atuando na interseção entre mercado financeiro e desenvolvimento de software.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em tecnologia, performance e no desenvolvimento de soluções práticas e bem estruturadas.
+## O que faço
 
-Possuo experiência no **mercado financeiro**, o que me trouxe visão analítica, atenção aos detalhes e foco em soluções eficientes, características que aplico também no desenvolvimento de software.
+Há 5 anos em mesa de FX e derivativos, com atuação em pricing, estruturação e execução de operações de câmbio (spot, PTAX, remessas) e derivativos (NDF, swap) para clientes corporativos. Trabalho diariamente com Bloomberg Terminal, ciclo de liquidação e estruturação de hedge cambial.
 
-Atualmente, estou aprofundando meus conhecimentos em **Back-End**, com foco em:
+Em paralelo, desenvolvo software com foco em back-end Java e construo projetos próprios na interseção entre capital markets e tecnologia.
 
-- **Java**
-- **APIs REST**
-- **Banco de Dados**
-- **Estruturação de projetos e boas práticas de Back-End**
+## Stack
 
-Também estudo **Front-End**, buscando ter uma visão completa do desenvolvimento web (HTML, CSS, JavaScript, React).
+**Back-end:** Java 21 · Quarkus · REST APIs · JWT · JDBC  
+**Front-end:** TypeScript · React · HTML5 · CSS3  
+**Dados:** Oracle · PostgreSQL · SQL  
+**Outros:** Python · Git · GitHub
 
-Gosto de aprender coisas novas e resolver problemas de forma objetiva, sempre buscando evoluir como desenvolvedor e expandir meus conhecimentos em tecnologia.
+## Domínio — Mercado Financeiro
 
+FX (spot, PTAX, remessas) · Derivativos (NDF, swap) · Hedge cambial · Pricing e análise de risco · Bloomberg Terminal · Ciclo de liquidação · Atendimento a clientes corporativos
 
----
+## Contato
 
-### Tecnologias
-
-**Back-End:** Java • APIs REST • SQL  
-**Front-End:** HTML • CSS • JavaScript • React  
-**Ferramentas:** Git
-
-
----
-
-### Contato
-
-- LinkedIn: https://www.linkedin.com/in/leonardojpereiradev/
-- Email: leojp04@gmail.com
+LinkedIn: [leonardojpereiradev](https://www.linkedin.com/in/leonardojpereiradev/)  
+Email: leojp04@gmail.com
